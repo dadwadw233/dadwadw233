@@ -16,7 +16,8 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dadwadw233&theme=hightcontrast" />
 </div>
 
-
+### Snake！
+<div align="center"><img src="https://raw.githubusercontent.com/dadwadw233/dadwadw233/main/assets/github-contribution-grid-snake.svg" ></div>
 
 ### My Weekly Development
 <!--START_SECTION:waka-->
