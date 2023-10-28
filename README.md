@@ -23,7 +23,7 @@ Some Projects:[NPU AI Lesson](https://github.com/dadwadw233/NPU_AI_course) / [Da
 
 ### ⛳ Work Experience
 
-[<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
+[<img align="left" height="94px" width="94px" alt="NPU" src="./asset/icon/ASGO.png"/>](https://www.nwpu.edu.cn/)
 
 **3D Vision Intern** \
 [**ASGO-3DV**]• 2022/01/01 - 2023/09/01 \
