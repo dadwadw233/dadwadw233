@@ -11,6 +11,17 @@
 
 ---
 
+### 📗 Education Experience
+
+[<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
+
+**undergraduate Student** \
+[**NPU**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/31 \
+Skills: `Python`, `C++`, `3D Vision`, `Robot`, `etc.` \
+Some Projects:[NPU AI Lesson](https://github.com/dadwadw233/NPU_AI_course) / [DataBase](https://github.com/dadwadw233/NPU-Survival-Manual) / [Super Naive CPU(mips)](https://github.com/dadwadw233/MIPS-CPU) / [Point Pair Feature Based Pose Estimation](https://github.com/dadwadw233/Central_Voting_PPF)(reproduce the [paper](https://ieeexplore.ieee.org/document/9429889))
+<br/>
+
+---
 
 ### :point_down: Overview
 [![wakatime](https://wakatime.com/badge/user/323402a1-bedf-4563-9d3c-6d8a3682f2bb.svg)](https://wakatime.com/@323402a1-bedf-4563-9d3c-6d8a3682f2bb)  
