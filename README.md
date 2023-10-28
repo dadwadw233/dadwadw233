@@ -1,6 +1,7 @@
+:stuck_out_tongue_winking_eye:  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=This+is+Yuanhong+Yu;welcome+to+my+github+page)](https://git.io/typing-svg)
 
-  
+### :point_down: Overview
 [![wakatime](https://wakatime.com/badge/user/323402a1-bedf-4563-9d3c-6d8a3682f2bb.svg)](https://wakatime.com/@323402a1-bedf-4563-9d3c-6d8a3682f2bb)  
 
 
@@ -11,15 +12,13 @@
 <span>  </span>
 </div>
 
-### Contribution History
+### :alien: Contribution History
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dadwadw233&theme=hightcontrast" />
 </div>
 
-### Snake！
-<div align="center"><img src="https://raw.githubusercontent.com/dadwadw233/dadwadw233/assets/github-contribution-grid-snake.svg" ></div>
 
-### My Weekly Development
+### :muscle: My Weekly Development
 <!--START_SECTION:waka-->
 
 ```txt
