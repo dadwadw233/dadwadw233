@@ -7,7 +7,7 @@
 - :baby: Comming Master student in CAD&CG at Zhejiang University in the fall of 2024.
 - 🌱 My research interests include Computer Vision；MultiModel task；Generative AI...
 - You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
-- My HomePage: [YYH`s Homepage](www.yuanhongyu.xyz)
+- My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
 
 ---
 
