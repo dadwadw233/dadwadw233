@@ -1,6 +1,6 @@
 :stuck_out_tongue_winking_eye:  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=This+is+Yuanhong+Yu;welcome+to+my+github+page)](https://git.io/typing-svg)
-
+## About me :point_down:
 ### :sweat_drops: Introduction
 
 - :wink: I’m currently a undergraduate student from **Northwest Polytechnical University** and my major is **Computer Science and Technology**.
@@ -23,16 +23,25 @@ Some Projects:[NPU AI Lesson](https://github.com/dadwadw233/NPU_AI_course) / [Da
 
 ### ⛳ Work Experience
 
-[<img align="left" height="94px" width="94px" alt="NPU" src="./asset/icon/ASGO.png"/>](https://www.nwpu.edu.cn/)
+[<img align="left" height="94px" width="94px" alt="SH AI LAB" src="https://moka-public.oss-cn-beijing.aliyuncs.com/pjlab/89c3c7e0e15a466fb6370933055d2de7.jpg"/>](https://www.shlab.org.cn/)
+
+**3D Vision Intern** \
+[**sh AI lab**](https://www.shlab.org.cn/)• 2023/10/24 - now \
+Research Interests: `Generative Model`, `LLM`  \
+Featured Projects: Coming .... :computer:
+<br>
+
+[<img align="left" height="94px" width="94px" alt="ASGO-3DV" src="./asset/icon/ASGO.png"/>](https://www.nwpu.edu.cn/)
 
 **3D Vision Intern** \
 [**ASGO-3DV**]• 2022/01/01 - 2023/09/01 \
 Research Interests: `Pose Estimation`, `Point Cloud Registration`, `Diffusion Model`  \
+Supervisor：[**Jiaqi Yang**](https://yangjiaqihomepage.github.io/)
 Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com/dadwadw233/Central_Voting_PPF)(reproduce the [paper](https://ieeexplore.ieee.org/document/9429889)) 
 <br>
 
 ---
-
+## About Github :zzz:
 ### :point_down: Overview
 [![wakatime](https://wakatime.com/badge/user/323402a1-bedf-4563-9d3c-6d8a3682f2bb.svg)](https://wakatime.com/@323402a1-bedf-4563-9d3c-6d8a3682f2bb)  
 
