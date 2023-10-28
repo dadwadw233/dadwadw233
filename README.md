@@ -17,7 +17,7 @@
 </div>
 
 ### Snake！
-<div align="center"><img src="https://raw.githubusercontent.com/dadwadw233/dadwadw233/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/dadwadw233/dadwadw233/assets/github-contribution-grid-snake.svg" ></div>
 
 ### My Weekly Development
 <!--START_SECTION:waka-->
