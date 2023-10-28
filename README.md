@@ -4,7 +4,7 @@
 ### :sweat_drops: Introduction
 
 - :wink: I’m currently a undergraduate student from **Northwest Polytechnical University** and my major is **Computer Science and Technology**.
-- :baby: Comming Master student in CAD&CG at Zhejiang University in the fall of 2024.
+- :baby: Coming Master student in CAD&CG at Zhejiang University in the fall of 2024.
 - 🌱 My research interests include Computer Vision；MultiModel task；Generative AI...
 - You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
 - My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
@@ -18,8 +18,18 @@
 **undergraduate Student** \
 [**NPU**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/31 \
 Skills: `Python`, `C++`, `3D Vision`, `Robot`, `etc.` \
-Some Projects:[NPU AI Lesson](https://github.com/dadwadw233/NPU_AI_course) / [DataBase](https://github.com/dadwadw233/NPU-Survival-Manual) / [Super Naive CPU(mips)](https://github.com/dadwadw233/MIPS-CPU) / [Point Pair Feature Based Pose Estimation](https://github.com/dadwadw233/Central_Voting_PPF)(reproduce the [paper](https://ieeexplore.ieee.org/document/9429889))
+Some Projects:[NPU AI Lesson](https://github.com/dadwadw233/NPU_AI_course) / [DataBase](https://github.com/dadwadw233/NPU-Survival-Manual) / [Super Naive CPU(mips)](https://github.com/dadwadw233/MIPS-CPU) 
 <br/>
+
+### ⛳ Work Experience
+
+[<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
+
+**3D Vision Intern** \
+[**ASGO-3DV**]• 2022/01/01 - 2023/09/01 \
+Research Interests: `Pose Estimation`, `Point Cloud Registration`, `Diffusion Model`  \
+Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com/dadwadw233/Central_Voting_PPF)(reproduce the [paper](https://ieeexplore.ieee.org/document/9429889)) 
+<br>
 
 ---
 
