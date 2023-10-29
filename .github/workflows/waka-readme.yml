@@ -18,7 +18,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
           SECTION_NAME: waka # optional
-          CODE_LANG: rust # optional
           TIME_RANGE: last_7_days # optional
           LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
