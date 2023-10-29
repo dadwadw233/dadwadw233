@@ -34,7 +34,7 @@ Featured Projects: Coming .... :computer:
 [<img align="left" height="94px" width="94px" alt="ASGO-3DV" src="./asset/icon/ASGO.png"/>](https://www.nwpu.edu.cn/)
 
 **3D Vision Intern** \
-[**ASGO-3DV**]• 2022/01/01 - 2023/09/01 \
+**ASGO-3DV** • 2022/01/01 - 2023/09/01 \
 Research Interests: `Pose Estimation`, `Point Cloud Registration`, `Diffusion Model`  \
 Supervisor：[**Jiaqi Yang**](https://yangjiaqihomepage.github.io/)
 Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com/dadwadw233/Central_Voting_PPF)(reproduce the [paper](https://ieeexplore.ieee.org/document/9429889)) 
