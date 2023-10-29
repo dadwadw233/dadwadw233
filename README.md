@@ -85,11 +85,9 @@ Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 August 2022 - To: 28 October 2023
+Total Time: 23 hrs 35 mins
 
-Total Time: 720 hrs 33 mins
-
-Other                  603 hrs 34 mins >>>>>>>>>>>--------------   45.58 %
+Other    15 hrs 13 mins  ████████████████░░░░░░░░░   64.57 %
 ```
 
 <!--END_SECTION:waka-->
