@@ -64,11 +64,10 @@ Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com
 <!--START_SECTION:waka-->
 
 ```txt
-Other      12 hrs 18 mins  ██████████████▒░░░░░░░░░░   57.33 %
-sh         4 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-Python     3 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
-Markdown   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Bash       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Other    15 hrs 13 mins  ████████████████░░░░░░░░░   64.57 %
+sh       4 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+Python   3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Bash     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
