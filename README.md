@@ -58,6 +58,13 @@ Supervisor：[**Jiaqi Yang**](https://yangjiaqihomepage.github.io/)
 Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com/dadwadw233/Central_Voting_PPF)(reproduce the [paper](https://ieeexplore.ieee.org/document/9429889)) 
 <br>
 
+[<img align="left" height="94px" width="94px" alt="ASGO-3DV" src="https://avatars.githubusercontent.com/u/50800033?s=200&v=4"/>](https://npuv5pp.github.io/V5Tutorial/)
+**Software Dev for Robot** \
+[**NWPU-V5++**](https://npuv5pp.github.io/V5Tutorial/) • 2021/03/15 - 2023/09/01  @[nwpu-v5-team](https://github.com/nwpu-v5-team) \
+Skills: `ROS`, `Path finding`, `Robot Positioning`, ... \
+Competition experiences : `ICRA RoboMaster AI Challenge`, `ICRA RoboMaster Sim2Real Challenge` ... \
+<br>
+
 ---
 ## About Github :zzz:
 ### :point_down: Overview
