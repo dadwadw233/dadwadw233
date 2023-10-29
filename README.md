@@ -88,12 +88,6 @@ Competition experiences : `ICRA RoboMaster AI Challenge`, `ICRA RoboMaster Sim2R
 ### :snake: Snake!
 <div align="center"><img src="https://raw.githubusercontent.com/dadwadw233/dadwadw233/output/github-contribution-grid-snake.svg" ></div>
 
-### 🖥️ Most Used Operator System
-<div align="center">
-
-<img src="https://wakatime.com/share/@323402a1-bedf-4563-9d3c-6d8a3682f2bb/b25d0e15-9b20-458f-851f-56028a1268f2.svg"></img>
-
-</div>
 
 ### 🕘 Wakatime Activity
 <div align="center">
