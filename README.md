@@ -22,7 +22,7 @@
 ### :sweat_drops: Introduction
 
 - :wink: I’m currently a undergraduate student from **Northwest Polytechnical University** and my major is **Computer Science and Technology**.
-- :baby: Coming Master student in CAD&CG at Zhejiang University in the fall of 2024.
+- :baby: Coming Master student in **CAD&CG** at **Zhejiang University** in the fall of 2024.
 - 🌱 My research interests include Computer Vision；MultiModel task；Generative AI...
 - You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
 - My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
