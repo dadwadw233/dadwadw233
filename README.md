@@ -47,7 +47,7 @@ Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=dadwadw233&count_private=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=dadwadw233&count_private=true&include_all_commits=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 
