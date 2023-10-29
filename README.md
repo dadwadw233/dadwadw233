@@ -1,6 +1,24 @@
 :stuck_out_tongue_winking_eye:  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=This+is+Yuanhong+Yu;welcome+to+my+github+page)](https://git.io/typing-svg)
 ## About me :point_down:
+<p align="center">
+  <a href="https://github.com/dadwadw233">
+    <img src="https://badges.strrl.dev/visits/dadwadw233/dadwadw233?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/dadwadw233">
+    <img src="https://badges.strrl.dev/years/dadwadw233?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/dadwadw233?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/dadwadw233?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/dadwadw233">
+    <img src="https://badges.strrl.dev/gists/dadwadw233?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/dadwadw233">
+    <img src="https://badges.strrl.dev/commits/monthly/dadwadw233?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+
 ### :sweat_drops: Introduction
 
 - :wink: I’m currently a undergraduate student from **Northwest Polytechnical University** and my major is **Computer Science and Technology**.
