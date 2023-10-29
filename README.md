@@ -84,10 +84,11 @@ Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com
 ### :muscle: My Weekly Development
 <!--START_SECTION:waka-->
 
-```rust
-Total Time: 23 hrs 35 mins
-
+```txt
 Other    15 hrs 13 mins  ████████████████░░░░░░░░░   64.57 %
+sh       4 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+Python   3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Bash     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
