@@ -21,9 +21,9 @@
 
 ### :sweat_drops: Introduction
 
-- :wink: I’m currently a undergraduate student from **Northwest Polytechnical University** and my major is **Computer Science and Technology**.
+- :wink: I’m currently a undergraduate student from **Northwestern Polytechnical University** and my major is **Computer Science and Technology**.
 - :baby: Coming Master student in **CAD&CG** at **Zhejiang University** in the fall of 2024.
-- 🌱 My research interests include Computer Vision；MultiModel task；Generative AI...
+- 🌱 My research interests include Computer Vision；MultiModal Generation...
 - You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
 - My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
 
@@ -35,8 +35,8 @@
 
 **undergraduate Student** \
 [**NPU**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/31 \
-Skills: `Python`, `C++`, `3D Vision`, `Robot`, `etc.` \
-Some Projects:[NPU AI Lesson](https://github.com/dadwadw233/NPU_AI_course) / [DataBase](https://github.com/dadwadw233/NPU-Survival-Manual) / [Super Naive CPU(mips)](https://github.com/dadwadw233/MIPS-CPU) 
+Skills: `Python`, `C++`, `3D Vision`, `Robot` ...\
+Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwadw233/NPU-Survival-Manual) / [Mips CPU](https://github.com/dadwadw233/MIPS-CPU) 
 <br/>
 
 ### ⛳ Work Experience
@@ -45,7 +45,7 @@ Some Projects:[NPU AI Lesson](https://github.com/dadwadw233/NPU_AI_course) / [Da
 
 **3D Vision Intern** \
 [**sh AI lab**](https://www.shlab.org.cn/)• 2023/10/24 - now \
-Research Interests: `Generative Model`, `LLM`  \
+Research Interests: `Generative Model`, `3D Vision`  \
 Featured Projects: Coming .... :computer:
 <br>
 
@@ -53,7 +53,7 @@ Featured Projects: Coming .... :computer:
 
 **3D Vision Intern** \
 **ASGO-3DV** • 2022/01/01 - 2023/09/01 \
-Research Interests: `Pose Estimation`, `Point Cloud Registration`, `Diffusion Model`  \
+Research Experiences: `Pose Estimation`, `Point Cloud Registration`, `Diffusion Model`  \
 Supervisor：[**Jiaqi Yang**](https://yangjiaqihomepage.github.io/) \
 Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com/dadwadw233/Central_Voting_PPF)(reproduce the [paper](https://ieeexplore.ieee.org/document/9429889)) 
 <br>
