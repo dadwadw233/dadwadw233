@@ -34,7 +34,7 @@
 [<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
 
 **Undergraduate Student** \
-[**NPU**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/31 \
+[**NPU**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/06/30 \
 Skills: `Python`, `C++`, `3D Vision`, `Robot` ...\
 Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwadw233/NPU-Survival-Manual) / [Mips CPU](https://github.com/dadwadw233/MIPS-CPU) 
 <br/>
@@ -45,7 +45,7 @@ Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwad
 
 **Algorithm Intern** \
 [**Deepglint**](https://www.deepglint.com/)• 2024/7/9 -  \
-Research Interests: `Generative Model`, `3D Vision`  \
+Research Interests: `Pose Estimation`, `3D Vision`  \
 Featured Projects: Coming .... :computer:
 <br>
 <br>
