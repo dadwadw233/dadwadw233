@@ -33,13 +33,18 @@
 
 [<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
 
-**undergraduate Student** \
+**Undergraduate Student** \
 [**NPU**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/31 \
 Skills: `Python`, `C++`, `3D Vision`, `Robot` ...\
 Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwadw233/NPU-Survival-Manual) / [Mips CPU](https://github.com/dadwadw233/MIPS-CPU) 
 <br/>
 
 ### ⛳ Work Experience
+
+[<img align="left" height="94px" width="94px" alt="SH AI LAB" src="https://avatars.githubusercontent.com/u/6396104?s=200&v=4"/>](https://github.com/deepglint)
+
+**Algorithm Intern**
+[**Deepglint**](https://www.deepglint.com/)• 2024/7/9 -  \
 
 [<img align="left" height="94px" width="94px" alt="SH AI LAB" src="https://moka-public.oss-cn-beijing.aliyuncs.com/pjlab/89c3c7e0e15a466fb6370933055d2de7.jpg"/>](https://www.shlab.org.cn/)
 
