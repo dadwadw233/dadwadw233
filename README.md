@@ -43,7 +43,7 @@ Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwad
 
 [<img align="left" height="94px" width="94px" alt="Deepglint" src="https://avatars.githubusercontent.com/u/6396104?s=200&v=4"/>](https://github.com/deepglint)
 
-**Algorithm Intern**
+**Algorithm Intern** \
 [**Deepglint**](https://www.deepglint.com/)• 2024/7/9 -  \
 Research Interests: `Generative Model`, `3D Vision`  \
 Featured Projects: Coming .... :computer:
