@@ -44,7 +44,7 @@ Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwad
 [<img align="left" height="94px" width="94px" alt="SH AI LAB" src="https://moka-public.oss-cn-beijing.aliyuncs.com/pjlab/89c3c7e0e15a466fb6370933055d2de7.jpg"/>](https://www.shlab.org.cn/)
 
 **3D Vision Intern** \
-[**sh AI lab**](https://www.shlab.org.cn/)• 2023/10/24 - now \
+[**sh AI lab**](https://www.shlab.org.cn/)• 2023/10/24 - 2024/6/1 \
 Research Interests: `Generative Model`, `3D Vision`  \
 Featured Projects: Coming .... :computer:
 <br>
