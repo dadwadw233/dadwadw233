@@ -45,6 +45,9 @@ Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwad
 
 **Algorithm Intern**
 [**Deepglint**](https://www.deepglint.com/)• 2024/7/9 -  \
+Research Interests: `Generative Model`, `3D Vision`  \
+Featured Projects: Coming .... :computer:
+<br>
 
 [<img align="left" height="94px" width="94px" alt="SH AI LAB" src="https://moka-public.oss-cn-beijing.aliyuncs.com/pjlab/89c3c7e0e15a466fb6370933055d2de7.jpg"/>](https://www.shlab.org.cn/)
 
