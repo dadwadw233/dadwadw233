@@ -110,15 +110,15 @@ Competition experiences : `ICRA RoboMaster AI Challenge`, `ICRA RoboMaster Sim2R
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2024 - To: 06 September 2024
+From: 31 August 2024 - To: 07 September 2024
 
-Total Time: 6 hrs 13 mins
+Total Time: 8 hrs 43 mins
 
-Other    8 hrs 9 mins    ██████████████▒░░░░░░░░░░   56.73 %
-sh       3 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-Python   2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
-YAML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Bash     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other        9 hrs 57 mins   █████████████▒░░░░░░░░░░░   53.31 %
+sh           5 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+Python       3 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
