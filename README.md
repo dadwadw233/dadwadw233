@@ -21,8 +21,9 @@
 
 ### :sweat_drops: Introduction
 
-- :wink: I’m currently a undergraduate student from **Northwestern Polytechnical University** and my major is **Computer Science and Technology**.
-- :baby: Coming Master student in **CAD&CG** at **Zhejiang University** in the fall of 2024.
+- 💻 I'm currently studying for my master's degree at Zhejiang University
+- ~:wink: I’m currently a undergraduate student from **Northwestern Polytechnical University** and my major is **Computer Science and Technology**.~
+- ~:baby: Coming Master student in **CAD&CG** at **Zhejiang University** in the fall of 2024.~
 - 🌱 My research interests include Computer Vision；MultiModal Generation...
 - You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
 - My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
@@ -30,6 +31,13 @@
 ---
 
 ### 📗 Education Experience
+
+[<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Zhejiang_University_Logo.svg/400px-Zhejiang_University_Logo.svg.png"/>](https://www.zju.edu.cn/)
+
+**Master's degree** \
+[**@ZJU-3DV**](https://github.com/zju3dv) • 2024/09 -  \
+Research Interests: `3DV`, `Embodied AI`, `Foundation model`, `Machine Learning`  \
+Reaserch Projects: coming ... 😢 \
 
 [<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
 
@@ -39,14 +47,15 @@ Skills: `Python`, `C++`, `3D Vision`, `Robot` ...\
 Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwadw233/NPU-Survival-Manual) / [Mips CPU](https://github.com/dadwadw233/MIPS-CPU) 
 <br/>
 
+---
+
 ### ⛳ Work Experience
 
 [<img align="left" height="94px" width="94px" alt="Deepglint" src="https://avatars.githubusercontent.com/u/6396104?s=200&v=4"/>](https://github.com/deepglint)
 
 **Algorithm Intern** \
-[**Deepglint**](https://www.deepglint.com/)• 2024/7/9 -  \
-Research Interests: `Pose Estimation`, `3D Vision`  \
-Featured Projects: Coming .... :computer:
+[**Deepglint**](https://www.deepglint.com/)• 2024/7/9 - 2024/9/4 \
+Research Interests: `Pose Estimation`, `Gaussian splatting`, `Reconstruction`  \
 <br>
 <br>
 
