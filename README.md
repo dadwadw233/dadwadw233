@@ -32,7 +32,7 @@
 
 ### 📗 Education Experience
 
-[<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Zhejiang_University_Logo.svg/400px-Zhejiang_University_Logo.svg.png"/>](https://www.zju.edu.cn/)
+[<img align="left" height="100px" width="100px" alt="ZJU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Zhejiang_University_Logo.svg/400px-Zhejiang_University_Logo.svg.png"/>](https://www.zju.edu.cn/)
 
 **Master's degree** \
 [**@ZJU-3DV**](https://github.com/zju3dv) • 2024/09 -  \
