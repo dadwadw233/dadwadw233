@@ -23,7 +23,7 @@
 
 - 💻 I'm currently studying for my master's degree at Zhejiang University
 - :baby: Coming PhD student in **CAD&CG** at **Zhejiang University** in the fall of 2025.
-- 🌱 My research interests include Computer Vision；MultiModal Generation...
+- 🌱 My research interests including 3D Vision；MLLM；Embodied AI.
 - You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
 - My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
 
