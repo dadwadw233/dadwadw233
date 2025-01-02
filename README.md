@@ -50,12 +50,22 @@ Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwad
 
 ### ⛳ Work Experience
 
+### 
+
+[<img align="left" height="94px" width="94px" alt="ASGO-3DV" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKeRHPqoQy796ezm6HMGyb6lo-Z74fB2hWcw&s"/>](https://www.nwpu.edu.cn/)
+
+**3DV Intern** \
+[**Ant Group**](https://www.antgroup.com/en)• 2024/12/1 -  \
+Research Interests: `Pose Estimation`  \
+Supervisor：[**Yujun Shen**](https://shenyujun.github.io/) \
+<br>
+
+
 [<img align="left" height="94px" width="94px" alt="Deepglint" src="https://avatars.githubusercontent.com/u/6396104?s=200&v=4"/>](https://github.com/deepglint)
 
 **Algorithm Intern** \
 [**Deepglint**](https://www.deepglint.com/)• 2024/7/9 - 2024/9/4 \
 Research Interests: `Pose Estimation`, `Gaussian splatting`, `Reconstruction`  \
-<br>
 <br>
 
 [<img align="left" height="94px" width="94px" alt="SH AI LAB" src="https://moka-public.oss-cn-beijing.aliyuncs.com/pjlab/89c3c7e0e15a466fb6370933055d2de7.jpg"/>](https://www.shlab.org.cn/)
