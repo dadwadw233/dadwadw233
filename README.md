@@ -1,5 +1,5 @@
 :stuck_out_tongue_winking_eye:  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=This+is+Yuanhong+Yu;welcome+to+my+github+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5AF&width=435&lines=This+is+Yuanhong's+homepage.;Welcome!)](https://git.io/typing-svg)
 ## About me :point_down:
 <p align="center">
   <a href="https://github.com/dadwadw233">
@@ -23,7 +23,6 @@
 
 - 💻 I'm currently studying for my master's degree at Zhejiang University
 - :baby: Coming PhD student in **CAD&CG** at **Zhejiang University** in the fall of 2025.
-- 🌱 My research interests including 3D Vision；MLLM；Embodied AI.
 - You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
 - My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
 
@@ -33,14 +32,14 @@
 
 [<img align="left" height="100px" width="100px" alt="ZJU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Zhejiang_University_Logo.svg/400px-Zhejiang_University_Logo.svg.png"/>](https://www.zju.edu.cn/)
 
-**Master's degree** \
+**Master student** \
 [**@ZJU-3DV**](https://github.com/zju3dv) • 2024/09 -  \
-Research Interests: `3DV`, `Embodied AI`, `Foundation model`, `Machine Learning`  \
+Research Interests: `3DV`, `Embodied AI`  \
 Reaserch Projects: coming ... 😢 \
 
 [<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
 
-**Undergraduate Student** \
+**Bachelor's degree** \
 [**NPU**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/06/30 \
 Skills: `Python`, `C++`, `3D Vision`, `Robot` ...\
 Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwadw233/NPU-Survival-Manual) / [Mips CPU](https://github.com/dadwadw233/MIPS-CPU) 
