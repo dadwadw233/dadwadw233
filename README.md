@@ -35,7 +35,7 @@
 **Master student** \
 [**@ZJU-3DV**](https://github.com/zju3dv) • 2024/09 -  \
 Research Interests: `3DV`, `Embodied AI`  \
-Reaserch Projects: [BoxDreamer-ICCV2025](https://github.com/zju3dv/BoxDreamer) \
+Reaserch Projects: [BoxDreamer](https://github.com/zju3dv/BoxDreamer)-ICCV2025 \
 
 [<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
 
