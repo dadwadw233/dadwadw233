@@ -21,8 +21,7 @@
 
 ### :sweat_drops: Introduction
 
-- 💻 I'm currently studying for my master's degree at Zhejiang University
-- :baby: Coming PhD student in **CAD&CG** at **Zhejiang University** in the fall of 2025.
+- 💻 I'm currently a PhD student at Zhejiang University
 - You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
 - My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
 
@@ -32,7 +31,7 @@
 
 [<img align="left" height="100px" width="100px" alt="ZJU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Zhejiang_University_Logo.svg/400px-Zhejiang_University_Logo.svg.png"/>](https://www.zju.edu.cn/)
 
-**Master student** \
+**PhD student** \
 [**@ZJU-3DV**](https://github.com/zju3dv) • 2024/09 -  \
 Research Interests: `3DV`, `Embodied AI`  \
 Reaserch Projects: [BoxDreamer](https://github.com/zju3dv/BoxDreamer)-ICCV2025 \
