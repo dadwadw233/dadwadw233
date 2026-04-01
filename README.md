@@ -1,4 +1,3 @@
-:stuck_out_tongue_winking_eye:  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5AF&width=435&lines=This+is+Yuanhong's+homepage.;Welcome!)](https://git.io/typing-svg)
 ## About me :point_down:
 <p align="center">
@@ -19,34 +18,33 @@
   </a>
 </p>
 
-### :sweat_drops: Introduction
+### Introduction
 
-- 💻 I'm currently a PhD student at Zhejiang University
+- PhD student at Zhejiang University
 - You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
 - My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
 
 ---
 
-### 📗 Education Experience
+### Education Experience
 
 [<img align="left" height="100px" width="100px" alt="ZJU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Zhejiang_University_Logo.svg/400px-Zhejiang_University_Logo.svg.png"/>](https://www.zju.edu.cn/)
 
 **PhD student** \
 [**@ZJU-3DV**](https://github.com/zju3dv) • 2024/09 -  \
 Research Interests: `3DV`, `Embodied AI`  \
-Reaserch Projects: [BoxDreamer](https://github.com/zju3dv/BoxDreamer)-ICCV2025 \
+Reaserch Projects: [ICCV2025][BoxDreamer](https://github.com/zju3dv/BoxDreamer) 
 
 [<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
 
 **Bachelor's degree** \
 [**NPU**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/06/30 \
 Skills: `Python`, `C++`, `3D Vision`, `Robot` ...\
-Some Projects:[NPU-Survival-Manual (DataBase Project)](https://github.com/dadwadw233/NPU-Survival-Manual) / [Mips CPU](https://github.com/dadwadw233/MIPS-CPU) 
 <br/>
 
 ---
 
-### ⛳ Work Experience
+### Work Experience
 
 ### 
 
@@ -88,21 +86,11 @@ Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com
 **Software Dev for Robot** \
 [**NWPU-V5++**](https://npuv5pp.github.io/V5Tutorial/) • 2021/03/15 - 2023/09/01  @[nwpu-v5-team](https://github.com/nwpu-v5-team) \
 Skills: `ROS`, `Path finding`, `Robot Positioning`, ... \
-Competition experiences : `ICRA RoboMaster AI Challenge`, `ICRA RoboMaster Sim2Real Challenge` ... \
+Competition experiences: `ICRA RoboMaster AI Challenge`, `ICRA RoboMaster Sim2Real Challenge` ... \
 <br>
 
 ---
 ## About Github :zzz:
-### :point_down: Overview
-[![wakatime](https://wakatime.com/badge/user/323402a1-bedf-4563-9d3c-6d8a3682f2bb.svg)](https://wakatime.com/@323402a1-bedf-4563-9d3c-6d8a3682f2bb)  
-
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=dadwadw233&count_private=true&include_all_commits=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
-
----
 
 ### :alien: Contribution History
 <div align="center">
@@ -110,17 +98,6 @@ Competition experiences : `ICRA RoboMaster AI Challenge`, `ICRA RoboMaster Sim2R
 </div>
 
 --- 
-
-### :snake: Snake!
-<div align="center"><img src="https://raw.githubusercontent.com/dadwadw233/dadwadw233/output/github-contribution-grid-snake.svg" ></div>
-
-
-### 🕘 Wakatime Activity
-<div align="center">
-
-<img src="https://wakatime.com/share/@323402a1-bedf-4563-9d3c-6d8a3682f2bb/72734eac-e2de-4cf2-97ec-105b52bdbd88.svg"></img>
-
-</div>
 
 ### :muscle: My Weekly Development
 <!--START_SECTION:waka-->
