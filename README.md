@@ -47,23 +47,19 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 </div>
 </div>
 
-### Contributions
 
-<div align="center">
+<details>
+<summary><b>Contributions to external projects</b></summary>
 
-<a href="https://github.com/Lightning-AI/pytorch-lightning/pull/20327">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Lightning--AI%2Fpytorch--lightning-Fix%20BatchSampler%20compatibility-14b8a6?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Lightning--AI%2Fpytorch--lightning-Fix%20BatchSampler%20compatibility-0d9488?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
-<img src="https://img.shields.io/badge/Lightning--AI%2Fpytorch--lightning-Fix%20BatchSampler%20compatibility-14b8a6?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
-</picture>
-</a>
+<br>
 
-</div>
+> ⚡ [Lightning-AI/pytorch-lightning#20327](https://github.com/Lightning-AI/pytorch-lightning/pull/20327) — Fix BatchSampler compatibility
+
+</details>
 
 ---
 
-### Background
+### GitHub Activity
 
 <div align="center">
 
@@ -73,12 +69,25 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dadwadw233&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="49%" />
 </picture>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=8&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=8&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false&ring_color=0d9488" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=8&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="49%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dadwadw233&background=0d1117&border=1e3a32&stroke=5eead4&ring=14b8a6&fire=f59e0b&currStreakNum=5eead4&sideNums=5eead4&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" />
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dadwadw233&background=ffffff&border=e2e8f0&stroke=0d9488&ring=0d9488&fire=d97706&currStreakNum=0d9488&sideNums=0d9488&currStreakLabel=334155&sideLabels=334155&dates=64748b" />
+<img src="https://streak-stats.demolab.com/?user=dadwadw233&background=0d1117&border=1e3a32&stroke=5eead4&ring=14b8a6&fire=f59e0b&currStreakNum=5eead4&sideNums=5eead4&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" width="49%" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=10&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=10&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false&ring_color=0d9488" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=10&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="49%" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dadwadw233&bg_color=0d1117&color=94a3b8&line=14b8a6&point=f59e0b&area_color=14b8a6&area=true&custom_title=Activity+(Last+31+Days)&title_color=5eead4" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dadwadw233&bg_color=ffffff&color=334155&line=0d9488&point=d97706&area_color=0d9488&area=true&custom_title=Activity+(Last+31+Days)&title_color=0d9488" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dadwadw233&bg_color=0d1117&color=94a3b8&line=14b8a6&point=f59e0b&area_color=14b8a6&area=true&custom_title=Activity+(Last+31+Days)&title_color=5eead4" width="49%" />
 </picture>
 
 </div>
+
+---
 
 <details>
 <summary><b>Work experience</b></summary>
