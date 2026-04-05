@@ -13,20 +13,30 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 
 ### Open Source
 
-Building tools for the agentic coding ecosystem:
-
 <table>
 <tr>
 <td width="50%">
 
+**[📦 BoxDreamer](https://github.com/zju3dv/BoxDreamer)** — ICCV 2025
+
+Dreaming Box Corners for Generalizable Object Pose Estimation
+
+[![Stars](https://img.shields.io/github/stars/zju3dv/BoxDreamer?style=flat-square&color=14b8a6)](https://github.com/zju3dv/BoxDreamer)
+`3d-vision` `pose-estimation` `iccv2025`
+
+</td>
+<td width="50%">
+
 **[🎭 VibePortrait](https://github.com/dadwadw233/VibePortrait)**
 
-AI analyzes your coding history → developer personality portrait (MBTI, radar chart, rating, famous match) + persona skill that lets any AI "think like you"
+AI analyzes your coding history → developer personality portrait + persona skill that lets any AI "think like you"
 
 [![Stars](https://img.shields.io/github/stars/dadwadw233/VibePortrait?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/VibePortrait)
 `claude-code` `codex` `personality` `skill`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[🛡️ VibeGuard](https://github.com/dadwadw233/VibeGuard)**
@@ -37,26 +47,14 @@ Real-time security plugin for Claude Code — detects secrets, blocks dangerous 
 `security` `claude-code` `plugin`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-**[🔧 Claude Code Harness](https://github.com/dadwadw233/claude-code-harness)**
+**[🔧 Claude Code Harness](https://github.com/dadwadw233/claude-code-harness)** · **[💡 Philosophy](https://github.com/dadwadw233/claude-code-philosophy)**
 
-Harness blueprint skill — turn agent ideas into concrete designs for request assembly, control loops, memory, permissions, and recovery
+Agent design skills — harness blueprints, design principles, and system patterns for building useful agentic systems
 
 [![Stars](https://img.shields.io/github/stars/dadwadw233/claude-code-harness?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/claude-code-harness)
-`agent-design` `harness` `skill`
-
-</td>
-<td width="50%">
-
-**[💡 Claude Code Philosophy](https://github.com/dadwadw233/claude-code-philosophy)**
-
-Design principles for building agents that are useful, controllable, and recoverable — not just impressive demos
-
 [![Stars](https://img.shields.io/github/stars/dadwadw233/claude-code-philosophy?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/claude-code-philosophy)
-`agent-philosophy` `design-principles` `skill`
 
 </td>
 </tr>
@@ -68,18 +66,17 @@ Design principles for building agents that are useful, controllable, and recover
 
 PhD student at Zhejiang University ([ZJU-3DV Lab](https://github.com/zju3dv)), working on 3D Vision and Embodied AI.
 
-- 📄 **[BoxDreamer](https://github.com/zju3dv/BoxDreamer)** — ICCV 2025
-- 🎓 B.Eng in CS @ Northwestern Polytechnical University (2020-2024)
+🎓 B.Eng in CS @ Northwestern Polytechnical University (2020-2024)
 
 <details>
 <summary>Work experience</summary>
 
 | | Role | Where | When |
 |--|------|-------|------|
-| 🐜 | 3DV Intern | Ant Group | 2024.12 - now |
-| 👁️ | Algorithm Intern | Deepglint | 2024.7 - 2024.9 |
-| 🔬 | 3D Vision Intern | Shanghai AI Lab | 2023.10 - 2024.6 |
-| 🤖 | Robot Software Dev | NWPU-V5++ | 2021.3 - 2023.9 |
+| 🐜 | 3DV Intern | [Ant Group](https://www.antgroup.com/en) · Supervisor: [Yujun Shen](https://shenyujun.github.io/) | 2024.12 - now |
+| 👁️ | Algorithm Intern | [Deepglint](https://www.deepglint.com/) | 2024.7 - 2024.9 |
+| 🔬 | 3D Vision Intern | [Shanghai AI Lab](https://www.shlab.org.cn/) · Supervisor: [Tong He](https://tonghe90.github.io/) | 2023.10 - 2024.6 |
+| 🤖 | Robot Software Dev | [NWPU-V5++](https://npuv5pp.github.io/V5Tutorial/) · Supervisor: [Jiaqi Yang](https://yangjiaqihomepage.github.io/) | 2021.3 - 2023.9 |
 
 </details>
 
