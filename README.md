@@ -41,8 +41,8 @@ Merged PRs to external projects:
 | Project | What |
 |---------|------|
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning/pull/20327) | Fix BatchSampler compatibility |
-| [RukawaY/habitat-gs](https://github.com/RukawaY/habitat-gs) | Nav-loop framework, polar navigation, spatial memory, OpenClaw integration (7 PRs) |
-| [Klcey/PDAvideo](https://github.com/Klcey/PDAvideo) | Video depth estimation — training, metrics, architecture updates (18 PRs) |
+| habitat-gs (private) | Embodied AI simulator — nav-loop framework, polar navigation, spatial memory, OpenClaw integration (7 PRs) |
+| PDAvideo (private) | Video depth estimation — training pipeline, metrics alignment, architecture updates (18 PRs) |
 | [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins/pull/37) | Plugin listing |
 
 ---
