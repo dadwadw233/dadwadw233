@@ -36,14 +36,9 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 
 ### Contributions
 
-Merged PRs to external projects:
-
 | Project | What |
 |---------|------|
 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning/pull/20327) | Fix BatchSampler compatibility |
-| habitat-gs (private) | Embodied AI simulator — nav-loop framework, polar navigation, spatial memory, OpenClaw integration (7 PRs) |
-| PDAvideo (private) | Video depth estimation — training pipeline, metrics alignment, architecture updates (18 PRs) |
-| [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins/pull/37) | Plugin listing |
 
 ---
 
