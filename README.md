@@ -2,7 +2,7 @@
 
 ### Hey, I'm Yuanhong 👋
 
-PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent Systems
+PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengsida.net/) and [Xiaowei Zhou](https://xzhou.me/). B.Eng @ [NPU](https://www.nwpu.edu.cn/), advised by [Jiaqi Yang](https://yangjiaqihomepage.github.io/).
 
 [![Website](https://img.shields.io/badge/yuanhongyu.xyz-14b8a6?style=flat-square&logo=safari&logoColor=white)](https://yuanhongyu.xyz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuanhongyu.me@gmail.com)
@@ -48,14 +48,12 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 </div>
 
 
-<details>
 <summary><b>Contributions to external projects</b></summary>
 
 <br>
 
 > ⚡ [Lightning-AI/pytorch-lightning#20327](https://github.com/Lightning-AI/pytorch-lightning/pull/20327) — Fix BatchSampler compatibility
 
-</details>
 
 ---
 
@@ -89,9 +87,7 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 
 ---
 
-<details>
-<summary><b>Work experience</b></summary>
-
+### Work Experience
 <br>
 
 > 🐜 **3DV Intern** @ [Ant Group](https://www.antgroup.com/en) · w/ [Yujun Shen](https://shenyujun.github.io/) · *2024.12 - now*
@@ -100,29 +96,6 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 >
 > 🔬 **3D Vision Intern** @ [Shanghai AI Lab](https://www.shlab.org.cn/) · w/ [Tong He](https://tonghe90.github.io/) · *2023.10 - 2024.6*
 >
-> 🤖 **Robot Software Dev** @ [NWPU-V5++](https://npuv5pp.github.io/V5Tutorial/) · w/ [Jiaqi Yang](https://yangjiaqihomepage.github.io/) · *2021.3 - 2023.9*
+> 🤖 **Robot Software Dev** @ [NWPU-V5++](https://npuv5pp.github.io/V5Tutorial/) · *2021.3 - 2023.9*
 
-</details>
 
-<details>
-<summary><b>Weekly development</b></summary>
-
-<br>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 March 2026 - To: 04 April 2026
-
-Total Time: 31 hrs 47 mins
-
-Other      20 hrs 10 mins        █████████▓░░░░░░░░░░░░░░░   38.82 %
-Markdown   14 hrs 18 mins        ███████░░░░░░░░░░░░░░░░░░   27.53 %
-Swift      3 hrs 50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Groff      3 hrs 50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Bash       3 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-```
-
-<!--END_SECTION:waka-->
-
-</details>
