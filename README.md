@@ -6,6 +6,8 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 
 [![Website](https://img.shields.io/badge/yuanhongyu.xyz-14b8a6?style=flat-square&logo=safari&logoColor=white)](https://yuanhongyu.xyz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuanhongyu.me@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
+[![Twitter](https://img.shields.io/badge/@yyh-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
 
 <a href="https://github.com/dadwadw233">
   <img src="https://badges.strrl.dev/visits/dadwadw233/dadwadw233?style=flat-square&color=black&logo=github">
@@ -24,15 +26,30 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 
 ---
 
-### Open Source
+### Research & 3D Vision
 
 | Project | About |
 |---------|-------|
 | 📦 **[BoxDreamer](https://github.com/zju3dv/BoxDreamer)** | Generalizable Object Pose Estimation · **ICCV 2025** |
-| 🎭 **[VibePortrait](https://github.com/dadwadw233/VibePortrait)** | AI analyzes your coding history → personality portrait + persona skill |
+| 🎯 **[Central Voting PPF](https://github.com/dadwadw233/Central_Voting_PPF)** | Point cloud 6DoF pose estimation (C++) |
+| 🏙️ **[CityLayout](https://github.com/dadwadw233/CityLayout)** | Generative city layout from OpenStreetMap data |
+
+### Agent Ecosystem
+
+| Project | About |
+|---------|-------|
+| 🎭 **[VibePortrait](https://github.com/dadwadw233/VibePortrait)** | AI conversation history → personality portrait + persona skill |
 | 🛡️ **[VibeGuard](https://github.com/dadwadw233/VibeGuard)** | Real-time security plugin for Claude Code |
+| 📊 **[agentop](https://github.com/dadwadw233/agentop)** | Terminal UI for monitoring AI coding agents (like htop for Claude/Codex) |
+| 📚 **[PaperAgent](https://github.com/dadwadw233/PaperAgent)** | Local paper management + AI-powered reading assistant with RAG |
 | 🔧 **[Claude Code Harness](https://github.com/dadwadw233/claude-code-harness)** | Harness blueprint skill for agentic system design |
 | 💡 **[Claude Code Philosophy](https://github.com/dadwadw233/claude-code-philosophy)** | Design principles for useful, controllable agents |
+
+### Fun
+
+| Project | About |
+|---------|-------|
+| 🤖 **[QBot](https://github.com/dadwadw233/QBot)** | Clone your friends from QQ chat history |
 
 ### Contributions
 
@@ -42,7 +59,7 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 
 ---
 
-### Research
+### Background
 
 PhD student at [ZJU-3DV Lab](https://github.com/zju3dv) · 🎓 B.Eng in CS @ NPU (2020-2024)
 
