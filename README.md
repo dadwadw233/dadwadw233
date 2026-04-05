@@ -45,34 +45,60 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 <a href="https://github.com/dadwadw233/claude-code-philosophy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=claude-code-philosophy&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=claude-code-philosophy&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=claude-code-philosophy&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></picture></a>
 <a href="https://github.com/dadwadw233/QBot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=QBot&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=QBot&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=QBot&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></picture></a>
 </div>
+</div>
 
 ### Contributions
 
-| Project | What |
-|---------|------|
-| [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning/pull/20327) | Fix BatchSampler compatibility |
+<div align="center">
+
+<a href="https://github.com/Lightning-AI/pytorch-lightning/pull/20327">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Lightning--AI%2Fpytorch--lightning-Fix%20BatchSampler%20compatibility-14b8a6?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Lightning--AI%2Fpytorch--lightning-Fix%20BatchSampler%20compatibility-0d9488?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
+<img src="https://img.shields.io/badge/Lightning--AI%2Fpytorch--lightning-Fix%20BatchSampler%20compatibility-14b8a6?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
+</picture>
+</a>
+
+</div>
 
 ---
 
 ### Background
 
-PhD student at [ZJU-3DV Lab](https://github.com/zju3dv) · 🎓 B.Eng in CS @ NPU (2020-2024)
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dadwadw233&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dadwadw233&show_icons=true&include_all_commits=true&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false&ring_color=0d9488" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dadwadw233&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="49%" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=8&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=8&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false&ring_color=0d9488" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=8&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="49%" />
+</picture>
+
+</div>
 
 <details>
-<summary>Work experience</summary>
+<summary><b>Work experience</b></summary>
 
-| | Role | Where | When |
-|--|------|-------|------|
-| 🐜 | 3DV Intern | [Ant Group](https://www.antgroup.com/en) · Supervisor: [Yujun Shen](https://shenyujun.github.io/) | 2024.12 - now |
-| 👁️ | Algorithm Intern | [Deepglint](https://www.deepglint.com/) | 2024.7 - 2024.9 |
-| 🔬 | 3D Vision Intern | [Shanghai AI Lab](https://www.shlab.org.cn/) · Supervisor: [Tong He](https://tonghe90.github.io/) | 2023.10 - 2024.6 |
-| 🤖 | Robot Software Dev | [NWPU-V5++](https://npuv5pp.github.io/V5Tutorial/) · Supervisor: [Jiaqi Yang](https://yangjiaqihomepage.github.io/) | 2021.3 - 2023.9 |
+<br>
+
+> 🐜 **3DV Intern** @ [Ant Group](https://www.antgroup.com/en) · w/ [Yujun Shen](https://shenyujun.github.io/) · *2024.12 - now*
+>
+> 👁️ **Algorithm Intern** @ [Deepglint](https://www.deepglint.com/) · *2024.7 - 2024.9*
+>
+> 🔬 **3D Vision Intern** @ [Shanghai AI Lab](https://www.shlab.org.cn/) · w/ [Tong He](https://tonghe90.github.io/) · *2023.10 - 2024.6*
+>
+> 🤖 **Robot Software Dev** @ [NWPU-V5++](https://npuv5pp.github.io/V5Tutorial/) · w/ [Jiaqi Yang](https://yangjiaqihomepage.github.io/) · *2021.3 - 2023.9*
 
 </details>
 
----
+<details>
+<summary><b>Weekly development</b></summary>
 
-<div align="center">
+<br>
 
 <!--START_SECTION:waka-->
 
@@ -90,4 +116,4 @@ Bash       3 hrs 28 mins         █▓░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</div>
+</details>
