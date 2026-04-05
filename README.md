@@ -6,8 +6,8 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 
 [![Website](https://img.shields.io/badge/yuanhongyu.xyz-14b8a6?style=flat-square&logo=safari&logoColor=white)](https://yuanhongyu.xyz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuanhongyu.me@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
-[![Twitter](https://img.shields.io/badge/@yyh-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=eL8JRXwAAAAJ)
+[![Twitter](https://img.shields.io/badge/@Yuanhongyu929-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Yuanhongyu929)
 
 <a href="https://github.com/dadwadw233">
   <img src="https://badges.strrl.dev/visits/dadwadw233/dadwadw233?style=flat-square&color=black&logo=github">
