@@ -7,36 +7,49 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 [![Website](https://img.shields.io/badge/yuanhongyu.xyz-14b8a6?style=flat-square&logo=safari&logoColor=white)](https://yuanhongyu.xyz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuanhongyu.me@gmail.com)
 
+<a href="https://github.com/dadwadw233">
+  <img src="https://badges.strrl.dev/visits/dadwadw233/dadwadw233?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/dadwadw233">
+  <img src="https://badges.strrl.dev/years/dadwadw233?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/dadwadw233?tab=repositories">
+  <img src="https://badges.strrl.dev/repos/dadwadw233?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/dadwadw233">
+  <img src="https://badges.strrl.dev/commits/monthly/dadwadw233?style=flat-square&color=black&logo=github">
+</a>
+
 </div>
 
 ---
 
 ### Open Source
 
-> Building tools at the intersection of 3D vision, embodied AI, and agentic systems.
+| Project | About |
+|---------|-------|
+| 📦 **[BoxDreamer](https://github.com/zju3dv/BoxDreamer)** | Generalizable Object Pose Estimation · **ICCV 2025** |
+| 🎭 **[VibePortrait](https://github.com/dadwadw233/VibePortrait)** | AI analyzes your coding history → personality portrait + persona skill |
+| 🛡️ **[VibeGuard](https://github.com/dadwadw233/VibeGuard)** | Real-time security plugin for Claude Code |
+| 🔧 **[Claude Code Harness](https://github.com/dadwadw233/claude-code-harness)** | Harness blueprint skill for agentic system design |
+| 💡 **[Claude Code Philosophy](https://github.com/dadwadw233/claude-code-philosophy)** | Design principles for useful, controllable agents |
 
-📦 **[BoxDreamer](https://github.com/zju3dv/BoxDreamer)** · ICCV 2025
-[![Stars](https://img.shields.io/github/stars/zju3dv/BoxDreamer?style=flat-square&color=14b8a6&label=)](https://github.com/zju3dv/BoxDreamer)
-> Dreaming Box Corners for Generalizable Object Pose Estimation
+### Contributions
 
-🎭 **[VibePortrait](https://github.com/dadwadw233/VibePortrait)**
-[![Stars](https://img.shields.io/github/stars/dadwadw233/VibePortrait?style=flat-square&color=14b8a6&label=)](https://github.com/dadwadw233/VibePortrait)
-> AI analyzes your coding history → developer personality portrait + persona skill
+Merged PRs to external projects:
 
-🛡️ **[VibeGuard](https://github.com/dadwadw233/VibeGuard)**
-[![Stars](https://img.shields.io/github/stars/dadwadw233/VibeGuard?style=flat-square&color=14b8a6&label=)](https://github.com/dadwadw233/VibeGuard)
-> Real-time security plugin for Claude Code
-
-🔧 **[Claude Code Harness](https://github.com/dadwadw233/claude-code-harness)** · 💡 **[Philosophy](https://github.com/dadwadw233/claude-code-philosophy)**
-[![Stars](https://img.shields.io/github/stars/dadwadw233/claude-code-harness?style=flat-square&color=14b8a6&label=)](https://github.com/dadwadw233/claude-code-harness)
-[![Stars](https://img.shields.io/github/stars/dadwadw233/claude-code-philosophy?style=flat-square&color=14b8a6&label=)](https://github.com/dadwadw233/claude-code-philosophy)
-> Agent design skills — harness blueprints & design principles for useful agentic systems
+| Project | What |
+|---------|------|
+| [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning/pull/20327) | Fix BatchSampler compatibility |
+| [RukawaY/habitat-gs](https://github.com/RukawaY/habitat-gs) | Nav-loop framework, polar navigation, spatial memory, OpenClaw integration (7 PRs) |
+| [Klcey/PDAvideo](https://github.com/Klcey/PDAvideo) | Video depth estimation — training, metrics, architecture updates (18 PRs) |
+| [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins/pull/37) | Plugin listing |
 
 ---
 
 ### Research
 
-PhD student at [ZJU-3DV Lab](https://github.com/zju3dv) · 🎓 B.Eng @ NPU (2020-2024)
+PhD student at [ZJU-3DV Lab](https://github.com/zju3dv) · 🎓 B.Eng in CS @ NPU (2020-2024)
 
 <details>
 <summary>Work experience</summary>
