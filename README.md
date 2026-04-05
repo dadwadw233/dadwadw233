@@ -1,105 +1,92 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5AF&width=435&lines=This+is+Yuanhong's+homepage.;Welcome!)](https://git.io/typing-svg)
-## About me :point_down:
-<p align="center">
-  <a href="https://github.com/dadwadw233">
-    <img src="https://badges.strrl.dev/visits/dadwadw233/dadwadw233?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/dadwadw233">
-    <img src="https://badges.strrl.dev/years/dadwadw233?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/dadwadw233?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/dadwadw233?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/dadwadw233">
-    <img src="https://badges.strrl.dev/gists/dadwadw233?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/dadwadw233">
-    <img src="https://badges.strrl.dev/commits/monthly/dadwadw233?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
-### Introduction
-
-- PhD student at Zhejiang University
-- You can get in touch with me by email at [yuanhongyu.me@gmail.com](mailto:yuanhongyu.me@gmail.com)
-- My HomePage: [YYH`s Homepage](https://yuanhongyu.xyz/)
-
----
-
-### Education Experience
-
-[<img align="left" height="94px" width="94px" alt="ZJU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Zhejiang_University_Logo.svg/400px-Zhejiang_University_Logo.svg.png"/>](https://www.zju.edu.cn/)
-
-**PhD student** \
-[**@ZJU-3DV**](https://github.com/zju3dv) • 2024/09 -  \
-Research Interests: `3DV`, `Embodied AI`  \
-Reaserch Projects: [ICCV2025][BoxDreamer](https://github.com/zju3dv/BoxDreamer) 
-
-[<img align="left" height="94px" width="94px" alt="NPU" src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/1200px-Northwestern_Polytechnical_University_badge.svg.png"/>](https://www.nwpu.edu.cn/)
-
-**Bachelor's degree** \
-[**NPU**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/06/30 \
-Skills: `Python`, `C++`, `3D Vision`, `Robot` ...\
-<br/>
-
----
-
-### Work Experience
-
-### 
-
-[<img align="left" height="94px" width="94px" alt="ASGO-3DV" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKeRHPqoQy796ezm6HMGyb6lo-Z74fB2hWcw&s"/>](https://www.nwpu.edu.cn/)
-
-**3DV Intern** \
-[**Ant Group**](https://www.antgroup.com/en)• 2024/12/1 -  \
-Research Interests: `Pose Estimation`  \
-Supervisor：[**Yujun Shen**](https://shenyujun.github.io/) \
-<br>
-
-
-[<img align="left" height="94px" width="94px" alt="Deepglint" src="https://avatars.githubusercontent.com/u/6396104?s=200&v=4"/>](https://github.com/deepglint)
-
-**Algorithm Intern** \
-[**Deepglint**](https://www.deepglint.com/)• 2024/7/9 - 2024/9/4 \
-Research Interests: `Pose Estimation`, `Gaussian splatting`, `Reconstruction`  \
-<br>
-
-[<img align="left" height="94px" width="94px" alt="SH AI LAB" src="https://moka-public.oss-cn-beijing.aliyuncs.com/pjlab/89c3c7e0e15a466fb6370933055d2de7.jpg"/>](https://www.shlab.org.cn/)
-
-**3D Vision Intern** \
-[**sh AI lab**](https://www.shlab.org.cn/)• 2023/10/24 - 2024/6/1 \
-Research Interests: `Generative Model`, `3D Vision`  \
-Supervisor：[**Tong He**](https://tonghe90.github.io/) \
-Featured Projects: [Citylayout generator & GIS files converter](https://github.com/dadwadw233/CityLayout)
-<br>
-
-[<img align="left" height="94px" width="94px" alt="ASGO-3DV" src="./asset/icon/ASGO.png"/>](https://www.nwpu.edu.cn/)
-
-**3D Vision Intern** \
-**ASGO-3DV** • 2022/01/01 - 2023/09/01 \
-Research Experiences: `Pose Estimation`, `Point Cloud Registration`, `Diffusion Model`  \
-Supervisor：[**Jiaqi Yang**](https://yangjiaqihomepage.github.io/) \
-Featured Projects: [Point Pair Feature Based Pose Estimation](https://github.com/dadwadw233/Central_Voting_PPF)(reproduce the [paper](https://ieeexplore.ieee.org/document/9429889)) 
-<br>
-
-[<img align="left" height="94px" width="94px" alt="ASGO-3DV" src="https://avatars.githubusercontent.com/u/50800033?s=200&v=4"/>](https://npuv5pp.github.io/V5Tutorial/)
-**Software Dev for Robot** \
-[**NWPU-V5++**](https://npuv5pp.github.io/V5Tutorial/) • 2021/03/15 - 2023/09/01  @[nwpu-v5-team](https://github.com/nwpu-v5-team) \
-Skills: `ROS`, `Path finding`, `Robot Positioning`, ... \
-Competition experiences: `ICRA RoboMaster AI Challenge`, `ICRA RoboMaster Sim2Real Challenge` ... \
-<br>
-
----
-## About Github :zzz:
-
-### :alien: Contribution History
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dadwadw233&theme=hightcontrast" />
+
+### Hey, I'm Yuanhong 👋
+
+PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent Systems
+
+[![Website](https://img.shields.io/badge/yuanhongyu.xyz-14b8a6?style=flat-square&logo=safari&logoColor=white)](https://yuanhongyu.xyz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuanhongyu.me@gmail.com)
+
 </div>
 
---- 
+---
 
-### :muscle: My Weekly Development
+### Open Source
+
+Building tools for the agentic coding ecosystem:
+
+<table>
+<tr>
+<td width="50%">
+
+**[🎭 VibePortrait](https://github.com/dadwadw233/VibePortrait)**
+
+AI analyzes your coding history → developer personality portrait (MBTI, radar chart, rating, famous match) + persona skill that lets any AI "think like you"
+
+[![Stars](https://img.shields.io/github/stars/dadwadw233/VibePortrait?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/VibePortrait)
+`claude-code` `codex` `personality` `skill`
+
+</td>
+<td width="50%">
+
+**[🛡️ VibeGuard](https://github.com/dadwadw233/VibeGuard)**
+
+Real-time security plugin for Claude Code — detects secrets, blocks dangerous commands, logs all tool actions
+
+[![Stars](https://img.shields.io/github/stars/dadwadw233/VibeGuard?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/VibeGuard)
+`security` `claude-code` `plugin`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🔧 Claude Code Harness](https://github.com/dadwadw233/claude-code-harness)**
+
+Harness blueprint skill — turn agent ideas into concrete designs for request assembly, control loops, memory, permissions, and recovery
+
+[![Stars](https://img.shields.io/github/stars/dadwadw233/claude-code-harness?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/claude-code-harness)
+`agent-design` `harness` `skill`
+
+</td>
+<td width="50%">
+
+**[💡 Claude Code Philosophy](https://github.com/dadwadw233/claude-code-philosophy)**
+
+Design principles for building agents that are useful, controllable, and recoverable — not just impressive demos
+
+[![Stars](https://img.shields.io/github/stars/dadwadw233/claude-code-philosophy?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/claude-code-philosophy)
+`agent-philosophy` `design-principles` `skill`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Research
+
+PhD student at Zhejiang University ([ZJU-3DV Lab](https://github.com/zju3dv)), working on 3D Vision and Embodied AI.
+
+- 📄 **[BoxDreamer](https://github.com/zju3dv/BoxDreamer)** — ICCV 2025
+- 🎓 B.Eng in CS @ Northwestern Polytechnical University (2020-2024)
+
+<details>
+<summary>Work experience</summary>
+
+| | Role | Where | When |
+|--|------|-------|------|
+| 🐜 | 3DV Intern | Ant Group | 2024.12 - now |
+| 👁️ | Algorithm Intern | Deepglint | 2024.7 - 2024.9 |
+| 🔬 | 3D Vision Intern | Shanghai AI Lab | 2023.10 - 2024.6 |
+| 🤖 | Robot Software Dev | NWPU-V5++ | 2021.3 - 2023.9 |
+
+</details>
+
+---
+
+<div align="center">
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -115,3 +102,5 @@ Bash       3 hrs 28 mins         █▓░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+</div>
