@@ -73,14 +73,14 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengs
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=10&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=10&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false&ring_color=0d9488" />
-<img src="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=10&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="49%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=6&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=6&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false&ring_color=0d9488" />
+<img src="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=6&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="70%" />
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dadwadw233&bg_color=0d1117&color=94a3b8&line=14b8a6&point=f59e0b&area_color=14b8a6&area=true&custom_title=Activity+(Last+31+Days)&title_color=5eead4" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dadwadw233&bg_color=ffffff&color=334155&line=0d9488&point=d97706&area_color=0d9488&area=true&custom_title=Activity+(Last+31+Days)&title_color=0d9488" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dadwadw233&bg_color=0d1117&color=94a3b8&line=14b8a6&point=f59e0b&area_color=14b8a6&area=true&custom_title=Activity+(Last+31+Days)&title_color=5eead4" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dadwadw233&bg_color=0d1117&color=94a3b8&line=14b8a6&point=f59e0b&area_color=14b8a6&area=true&custom_title=Activity+(Last+31+Days)&title_color=5eead4" width="98%" />
 </picture>
 
 </div>
