@@ -77,11 +77,11 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengs
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=6&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false&ring_color=0d9488" />
 <img src="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=6&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="49%" />
 </picture>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=dadwadw233&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2&margin-w=4&margin-h=4&rank=-C,-B" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=dadwadw233&theme=flat&no-frame=true&no-bg=true&column=3&row=2&margin-w=4&margin-h=4&rank=-C,-B" />
-<img src="https://github-trophies.vercel.app/?username=dadwadw233&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2&margin-w=4&margin-h=4&rank=-C,-B" width="49%" />
-</picture></a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/wakatime?username=yuanhongyu&layout=compact&langs_count=6&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/wakatime?username=yuanhongyu&layout=compact&langs_count=6&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false" />
+<img src="https://github-readme-stats-smoky-beta-20.vercel.app/api/wakatime?username=yuanhongyu&layout=compact&langs_count=6&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" />
+</picture>
 
 </div>
 
