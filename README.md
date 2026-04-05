@@ -30,7 +30,7 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 
 <div align="center">
 <a href="https://github.com/zju3dv/BoxDreamer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=BoxDreamer&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></a>
-<a href="https://github.com/dadwadw233/Central_Voting_PPF"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=Central_Voting_PPF&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></a>
+<a href="https://github.com/dadwadw233/central-voting-ppf"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=central-voting-ppf&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></a>
 <a href="https://github.com/dadwadw233/CityLayout"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=CityLayout&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></a>
 <a href="https://github.com/dadwadw233/PaperAgent"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=PaperAgent&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></a>
 </div>
