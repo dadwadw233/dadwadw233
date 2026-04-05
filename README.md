@@ -13,52 +13,14 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv) · 3D Vision · Embodied AI · Agent 
 
 ### Open Source
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**[📦 BoxDreamer](https://github.com/zju3dv/BoxDreamer)** — ICCV 2025
+<a href="https://github.com/zju3dv/BoxDreamer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zju3dv&repo=BoxDreamer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8" /></a>
+<a href="https://github.com/dadwadw233/VibePortrait"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dadwadw233&repo=VibePortrait&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8" /></a>
+<a href="https://github.com/dadwadw233/VibeGuard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dadwadw233&repo=VibeGuard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8" /></a>
+<a href="https://github.com/dadwadw233/claude-code-harness"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dadwadw233&repo=claude-code-harness&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8" /></a>
 
-Dreaming Box Corners for Generalizable Object Pose Estimation
-
-[![Stars](https://img.shields.io/github/stars/zju3dv/BoxDreamer?style=flat-square&color=14b8a6)](https://github.com/zju3dv/BoxDreamer)
-`3d-vision` `pose-estimation` `iccv2025`
-
-</td>
-<td width="50%">
-
-**[🎭 VibePortrait](https://github.com/dadwadw233/VibePortrait)**
-
-AI analyzes your coding history → developer personality portrait + persona skill that lets any AI "think like you"
-
-[![Stars](https://img.shields.io/github/stars/dadwadw233/VibePortrait?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/VibePortrait)
-`claude-code` `codex` `personality` `skill`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[🛡️ VibeGuard](https://github.com/dadwadw233/VibeGuard)**
-
-Real-time security plugin for Claude Code — detects secrets, blocks dangerous commands, logs all tool actions
-
-[![Stars](https://img.shields.io/github/stars/dadwadw233/VibeGuard?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/VibeGuard)
-`security` `claude-code` `plugin`
-
-</td>
-<td width="50%">
-
-**[🔧 Claude Code Harness](https://github.com/dadwadw233/claude-code-harness)** · **[💡 Philosophy](https://github.com/dadwadw233/claude-code-philosophy)**
-
-Agent design skills — harness blueprints, design principles, and system patterns for building useful agentic systems
-
-[![Stars](https://img.shields.io/github/stars/dadwadw233/claude-code-harness?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/claude-code-harness)
-[![Stars](https://img.shields.io/github/stars/dadwadw233/claude-code-philosophy?style=flat-square&color=14b8a6)](https://github.com/dadwadw233/claude-code-philosophy)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -66,7 +28,8 @@ Agent design skills — harness blueprints, design principles, and system patter
 
 PhD student at Zhejiang University ([ZJU-3DV Lab](https://github.com/zju3dv)), working on 3D Vision and Embodied AI.
 
-🎓 B.Eng in CS @ Northwestern Polytechnical University (2020-2024)
+- 📄 **[BoxDreamer](https://github.com/zju3dv/BoxDreamer)** — ICCV 2025
+- 🎓 B.Eng in CS @ Northwestern Polytechnical University (2020-2024)
 
 <details>
 <summary>Work experience</summary>
