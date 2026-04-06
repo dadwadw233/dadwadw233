@@ -26,7 +26,7 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengs
 
 ---
 
-### Research & 3D Vision
+### Research 
 
 <div align="center">
 <a href="https://github.com/zju3dv/BoxDreamer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=BoxDreamer&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=BoxDreamer&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=BoxDreamer&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></picture></a>
