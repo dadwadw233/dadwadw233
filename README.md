@@ -2,7 +2,7 @@
 
 ### Hey, I'm Yuanhong 👋
 
-PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengsida.net/) and [Xiaowei Zhou](https://xzhou.me/). Building embodied navigation systems @ OneRobotics, Hangzhou. B.Eng @ [NPU](https://www.nwpu.edu.cn/), advised by [Jiaqi Yang](https://yangjiaqihomepage.github.io/).
+PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengsida.net/) and [Xiaowei Zhou](https://xzhou.me/). Building embodied navigation systems @ OneRobotics Artificial Intelligence Research Institute, Hangzhou. B.Eng @ [NPU](https://www.nwpu.edu.cn/), advised by [Jiaqi Yang](https://yangjiaqihomepage.github.io/).
 
 [![Website](https://img.shields.io/badge/yuanhongyu.xyz-14b8a6?style=flat-square&logo=safari&logoColor=white)](https://yuanhongyu.xyz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuanhongyu.me@gmail.com)
@@ -90,7 +90,7 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengs
 ### Work Experience
 <br>
 
-> 🤖 **Embodied Navigation Engineer** @ OneRobotics · Hangzhou · *2026.7.17 - now*
+> 🤖 **Embodied Navigation Engineer** @ OneRobotics Artificial Intelligence Research Institute · Hangzhou · *2026.7.17 - now*
 >
 > 🐜 **3DV Intern** @ [Ant Group](https://www.antgroup.com/en) · w/ [Yujun Shen](https://shenyujun.github.io/) · *2024.12 - 2026.7.16*
 >
