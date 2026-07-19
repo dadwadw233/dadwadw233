@@ -2,7 +2,7 @@
 
 ### Hey, I'm Yuanhong 👋
 
-PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengsida.net/) and [Xiaowei Zhou](https://xzhou.me/). Research intern @ [OneRobotics](https://www.onerobot.com/) Artificial Intelligence Research Institute, Hangzhou, advancing embodied navigation from frontier research to real-world deployment. B.Eng @ [NPU](https://www.nwpu.edu.cn/), advised by [Jiaqi Yang](https://yangjiaqihomepage.github.io/).
+PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengsida.net/) and [Xiaowei Zhou](https://xzhou.me/). B.Eng @ [NPU](https://www.nwpu.edu.cn/), advised by [Jiaqi Yang](https://yangjiaqihomepage.github.io/).
 
 [![Website](https://img.shields.io/badge/yuanhongyu.xyz-14b8a6?style=flat-square&logo=safari&logoColor=white)](https://yuanhongyu.xyz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuanhongyu.me@gmail.com)
