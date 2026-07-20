@@ -84,7 +84,7 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengs
 ### Work Experience
 <br>
 
-> 🤖 **Embodied Navigation Research Intern** @ [OneRobotics](https://www.onerobot.com/) Artificial Intelligence Research Institute · Hangzhou · *2026.7.17 - *
+> 🤖 **Embodied Navigation Research Intern** @ [OneRobotics](https://www.onerobot.com/) Artificial Intelligence Research Institute · Hangzhou · *2026.7.17 -*
 >
 > 🐜 **3DV Intern** @ [Ant Group](https://www.antgroup.com/en) · w/ [Yujun Shen](https://shenyujun.github.io/) · *2024.12 - 2026.7.16*
 >
