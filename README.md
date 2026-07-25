@@ -15,9 +15,6 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengs
 <a href="https://github.com/dadwadw233">
   <img src="https://badges.strrl.dev/years/dadwadw233?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://github.com/dadwadw233?tab=repositories">
-  <img src="https://badges.strrl.dev/repos/dadwadw233?style=flat-square&color=black&logo=github">
-</a>
 <a href="https://github.com/dadwadw233">
   <img src="https://badges.strrl.dev/commits/monthly/dadwadw233?style=flat-square&color=black&logo=github">
 </a>
