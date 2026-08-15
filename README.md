@@ -39,13 +39,6 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengs
 </div>
 
 
-<summary><b>Contributions to external projects</b></summary>
-
-<br>
-
-> ⚡ [Lightning-AI/pytorch-lightning#20327](https://github.com/Lightning-AI/pytorch-lightning/pull/20327) — Fix BatchSampler compatibility
-
-
 ---
 
 ### GitHub Activity
