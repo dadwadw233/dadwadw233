@@ -23,39 +23,51 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengs
 
 ---
 
-### Research
+### Research 
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/zju3dv/habitat-gs">Habitat-GS</a></strong><br><br>
-      High-fidelity navigation simulation with dynamic Gaussian Splatting, built for photorealistic embodied-agent training and evaluation.<br><br>
-      <sub><strong>ECCV 2026</strong> · C++ · Embodied AI</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/zju3dv/BoxDreamer">BoxDreamer</a></strong><br><br>
-      Generalizable 6-DoF object pose estimation from a single RGB image without CAD models or category-specific training.<br><br>
-      <sub><strong>ICCV 2025</strong> · Python · 3D Vision</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<a href="https://github.com/zju3dv/habitat-gs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=habitat-gs&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=habitat-gs&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=habitat-gs&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></picture></a>
+<a href="https://github.com/zju3dv/BoxDreamer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=BoxDreamer&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=BoxDreamer&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zju3dv&repo=BoxDreamer&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></picture></a>
+</div>
 
 ### Agent Ecosystem
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/dadwadw233/VibePortrait">VibePortrait</a></strong><br><br>
-      Turns coding conversations into a visual developer portrait, surfacing working style, communication patterns, and technical preferences.<br><br>
-      <sub>Claude Code · Codex · Developer Identity</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/dadwadw233/claude-code-harness">claude-code-harness</a></strong><br><br>
-      A Claude Code-inspired harness blueprint skill for designing reliable agent runtimes and execution workflows.<br><br>
-      <sub>Agent Runtime · Harness Design · Skill</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<a href="https://github.com/dadwadw233/VibePortrait"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=VibePortrait&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=VibePortrait&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=VibePortrait&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></picture></a>
+<a href="https://github.com/dadwadw233/claude-code-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=claude-code-harness&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=claude-code-harness&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dadwadw233&repo=claude-code-harness&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" /></picture></a>
+</div>
+</div>
+
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api?username=dadwadw233&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api?username=dadwadw233&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false&ring_color=0d9488" />
+<img src="https://github-readme-stats-smoky-beta-20.vercel.app/api?username=dadwadw233&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="49%" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dadwadw233&background=0d1117&border=1e3a32&stroke=5eead4&ring=14b8a6&fire=f59e0b&currStreakNum=5eead4&sideNums=5eead4&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" />
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dadwadw233&background=ffffff&border=e2e8f0&stroke=0d9488&ring=0d9488&fire=d97706&currStreakNum=0d9488&sideNums=0d9488&currStreakLabel=334155&sideLabels=334155&dates=64748b" />
+<img src="https://streak-stats.demolab.com/?user=dadwadw233&background=0d1117&border=1e3a32&stroke=5eead4&ring=14b8a6&fire=f59e0b&currStreakNum=5eead4&sideNums=5eead4&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" width="49%" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=6&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=6&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false&ring_color=0d9488" />
+<img src="https://github-readme-stats-smoky-beta-20.vercel.app/api/top-langs/?username=dadwadw233&layout=compact&langs_count=6&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false&ring_color=14b8a6" width="49%" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/wakatime?username=yuanhongyu&layout=compact&langs_count=6&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-smoky-beta-20.vercel.app/api/wakatime?username=yuanhongyu&layout=compact&langs_count=6&bg_color=ffffff&title_color=0d9488&icon_color=d97706&text_color=334155&border_color=e2e8f0&hide_border=false" />
+<img src="https://github-readme-stats-smoky-beta-20.vercel.app/api/wakatime?username=yuanhongyu&layout=compact&langs_count=6&bg_color=0d1117&title_color=5eead4&icon_color=f59e0b&text_color=94a3b8&border_color=1e3a32&hide_border=false" width="49%" />
+</picture>
+
+</div>
 
 ---
 
