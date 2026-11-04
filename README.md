@@ -64,9 +64,9 @@ PhD @ [ZJU-3DV](https://github.com/zju3dv), advised by [Sida Peng](https://pengs
 ### Work Experience
 <br>
 
-> 🤖 **Embodied Agent Research Intern** @ [OneRobotics](https://www.onerobot.com/) Artificial Intelligence Research Institute · Hangzhou · *2026.7.17 -*
+> 🤖 **Embodied Agent Research Intern** @ [OneRobotics](https://www.onerobot.com/) Artificial Intelligence Research Institute · Hangzhou · *2026.7 -*
 >
-> 🐜 **3DV Intern** @ [Ant Group](https://www.antgroup.com/en) · w/ [Yujun Shen](https://shenyujun.github.io/) · *2024.12 - 2026.7.16*
+> 🐜 **3DV Intern** @ [Ant Group](https://www.antgroup.com/en) · w/ [Yujun Shen](https://shenyujun.github.io/) · *2024.12 - 2026.7*
 >
 > 👁️ **Algorithm Intern** @ [Deepglint](https://www.deepglint.com/) · *2024.7 - 2024.9*
 >
